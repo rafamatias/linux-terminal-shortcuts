@@ -1,4 +1,4 @@
-# Bash
+# Linux terminal shortcuts
 Useful bash shortcuts by my own experience. All examples will use the command bellow to clarify its usage:
 
 ```
